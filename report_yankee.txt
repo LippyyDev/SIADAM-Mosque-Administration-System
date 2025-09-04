@@ -1,6 +1,0 @@
-# Report Yankee Txt
-
-Ringkasan perubahan pada 2026-02-20 07:28:15:
-  - Minor fix pada validasi
-  - Penyesuaian format output
-  - Pembersihan kode lama
